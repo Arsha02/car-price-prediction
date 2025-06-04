@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction
 
-This project uses machine learning techniques to predict the prices of used cars based on features like year of registration, fuel type, seller type, transmission, and kilometers driven.
+This project utilizes machine learning techniques to predict the prices of used cars based on features such as year of registration, fuel type, seller type, transmission, and kilometers driven.
 
 It was developed using Jupyter Notebook and is part of a larger effort to build practical, real-world machine learning skills.
 
@@ -21,8 +21,9 @@ It was developed using Jupyter Notebook and is part of a larger effort to build 
 
 ## 📁 Dataset
 
-- Source: Kaggle (CarDekho Dataset)
-- Features include: `Year`, `Selling_Price`, `Present_Price`, `Kms_Driven`, `Fuel_Type`, `Seller_Type`, `Transmission`, `Owner`
+Total Entries: ~300  
+- Columns: Year, Present Price, Selling Price, Kms Driven, Fuel Type, Seller Type, Transmission, Owner, etc.  
+- Source: [Kaggle - CarDekho Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)
 
 ---
 
@@ -55,6 +56,21 @@ It was developed using Jupyter Notebook and is part of a larger effort to build 
 
 - Random Forest Regressor performed best with high accuracy.
 - Visualization of predicted vs actual values shows a good fit.
+
+---
+
+## 📊 Future Improvements
+
+- Add deployment via Streamlit or Flask  
+- Incorporate real-time pricing APIs  
+- Improve model generalization with cross-validation
+
+---
+
+## 📄 Project Report & Presentation
+
+- 📘 [Car Price Prediction Report](./Car_Price_Prediction_Report_Arsha.pdf)  
+- 📊 [Car Price Prediction Presentation](./Car_Price_Prediction_Presentation_Arsha.pdf)
 
 ---
 
