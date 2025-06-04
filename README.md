@@ -45,8 +45,8 @@ Total Entries: ~300
 
 ## 📝 How to Run
 
-1. Open the notebook in Google Colab or Jupyter(./car_price_prediction.ipynb).
-2. Upload the [dataset](./car data.csv)
+1. Open the notebook in Google Colab or Jupyter: [car_price_prediction.ipynb](./car_price_prediction.ipynb).  
+2. Upload the dataset: [`car data.csv`](./car%20data.csv)
 3. Run the cells step by step
 
 ---
