@@ -75,11 +75,10 @@ Total Entries: ~300
 ## 📬 Contact
 
 If you have any suggestions or questions, feel free to connect via:
-- GitHub: https://github.com/Arsha02
-- Email: arshasivaprasad2002@gmail.com
-- LinkedIn: https://www.linkedin.com/in/arsha-s-504454205/
+- 🔗 GitHub: [https://github.com/Arsha02](https://github.com/Arsha02)  
+- 📧 Email: [arshasivaprasad2002@gmail.com](mailto:arshasivaprasad2002@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/arsha-s-504454205/](https://www.linkedin.com/in/arsha-s-504454205/)
 
 ---
 
 ⭐ If you find this helpful, consider starring the repo!
-
