@@ -2,7 +2,6 @@
 
 This project utilizes machine learning techniques to predict the prices of used cars based on features such as year of registration, fuel type, seller type, transmission, and kilometers driven.
 
-It was developed using Jupyter Notebook and is part of a larger effort to build practical, real-world machine learning skills.
 
 ---
 
@@ -47,7 +46,7 @@ Total Entries: ~300
 ## 📝 How to Run
 
 1. Open the notebook in Google Colab or Jupyter('car_price_prediction.ipynb')
-2. Upload the dataset (`.csv` file)
+2. Upload the dataset (`car data.csv`)
 3. Run the cells step by step
 
 ---
@@ -59,11 +58,10 @@ Total Entries: ~300
 
 ---
 
-## 📊 Future Improvements
-
-- Add deployment via Streamlit or Flask  
-- Incorporate real-time pricing APIs  
-- Improve model generalization with cross-validation
+## 📊Future Work
+- Incorporate more features like car condition, location, and seller type.
+- Experiment with advanced models such as XGBoost and Gradient Boosting.
+- Develop a user-friendly web app to allow interactive car price predictions.
 
 ---
 
@@ -76,7 +74,10 @@ Total Entries: ~300
 
 ## 📬 Contact
 
-If you have any suggestions or questions, feel free to connect!
+If you have any suggestions or questions, feel free to connect via:
+- GitHub: https://github.com/Arsha02
+- Email: arshasivaprasad2002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/arsha-s-504454205/
 
 ---
 
